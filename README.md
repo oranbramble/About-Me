@@ -4,17 +4,16 @@ My name is Oran Bramble, a recent Computer Science graduate from the University 
 
 Current Projects:
 
-- ROTA 📆
+- **ROTA** 📆
 
 Previous Projects:
 
 - **Third Year Independent Project** ⚽
-
-    - __Simulated exploitation of accumulator betting in UK football betting market using machine learning__
+    - _Simulated exploitation of accumulator betting in UK football betting market using machine learning_
  
-- Recommender Systems 📱
-- Distributed File System 📁
-- Cloud application 🌐
+- **Recommender Systems** 📱
+- **Distributed File System** 📁
+- **Cloud application** 🌐
 
 
 
