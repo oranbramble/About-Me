@@ -7,6 +7,7 @@ My name is Oran Bramble, a recent Computer Science graduate from the University 
 Current Projects:
 
 - **ROTA** 📆
+    - _An automatic rota-making application which aims to address the problme of small businesses manually creating rotas for workers every week or month_
 
 </br>
 
@@ -15,10 +16,14 @@ Previous Projects:
 - **Third Year Independent Project** ⚽
     - _Simulated exploitation of accumulator betting in UK football betting market using machine learning_
 
- 
 - **Recommender Systems** 📱
+    - _AI recommender systems using manually coded matrix factorisation and cosine similarity_
+      
 - **Distributed File System** 📁
-- **Cloud application** 🌐
+    - _File storage system spread over multiple sevrers featuring a rebalancing algorithm_
+    
+- **Quiplash Clone Cloud application** 🌐
+    - _Unfinished application but has backend system in place using Python and Azure_
 
 
 
