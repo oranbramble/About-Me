@@ -8,10 +8,11 @@ Current Projects:
 
 Previous Projects:
 
-- Third Year Independent Project
-- Recommender Systems
-- Distributed File System
-- Cloud application
+- Third Year Independent Project ⚽
+1. hi
+- Recommender Systems 📱
+- Distributed File System 📁
+- Cloud application 🌐
 
 
 
