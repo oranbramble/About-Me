@@ -5,6 +5,7 @@ My name is Oran Bramble, a recent Computer Science graduate from the University 
 Current Projects:
 
 - **ROTA** 📆
+</br>
 
 Previous Projects:
 
