@@ -4,9 +4,9 @@ My name is Oran Bramble, a recent Computer Science graduate from the University 
 
 Current Projects:
 
-- ROTA 
+- ROTA 📆
 
-Previous Projects  🎊:
+Previous Projects:
 
 - Third Year Independent Project
 - Recommender Systems
