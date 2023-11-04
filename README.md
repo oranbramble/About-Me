@@ -9,7 +9,7 @@ Current Projects:
 Previous Projects:
 
 - Third Year Independent Project ⚽
-1. hi
+    > Simulated exploitation of accumulator betting in UK football betting market using machine learning
 - Recommender Systems 📱
 - Distributed File System 📁
 - Cloud application 🌐
