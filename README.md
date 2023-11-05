@@ -13,7 +13,7 @@ Current Projects:
 
 Previous Projects:
 
-- **Third Year Independent Project** ⚽
+- [**Third Year Independent Project**](https://github.com/oranbramble/Accumulator-Profiting) ⚽
     - _Simulated exploitation of accumulator betting in UK football betting market using machine learning_
     - _Unable to publish this work here so repository just contains graphs and findings_
 
