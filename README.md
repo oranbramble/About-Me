@@ -16,12 +16,12 @@ Previous Projects:
 - [**Third Year Independent Project**](https://github.com/oranbramble/Accumulator-Profiting) ⚽
     - _Simulated exploitation of accumulator betting in UK football betting market using machine learning_
     - _Unable to publish this work here so repository just contains graphs and findings_
-
-- **Recommender Systems** 📱
-    - _AI recommender systems using manually coded matrix factorisation and cosine similarity_
       
 - **[Distributed File System](https://github.com/oranbramble/Distributed-File-System)** 📁
     - _File storage system spread over multiple sevrers featuring a rebalancing algorithm_
+ 
+- **Recommender Systems** 📱
+    - _AI recommender systems using manually coded matrix factorisation and cosine similarity_
     
 - **Quiplash Clone Cloud application** 🌐
     - _Unfinished application but has backend system in place using Python and Azure_
