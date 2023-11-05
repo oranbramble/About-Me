@@ -19,7 +19,10 @@ Previous Projects:
       
 - **[Distributed File System](https://github.com/oranbramble/Distributed-File-System)** 📁
     - _File storage system spread over multiple sevrers featuring a rebalancing algorithm_
- 
+
+- **[Portfolio Optimistation]**(https://github.com/oranbramble/Portfolio-Optimisation) 💼
+    - _Python script to automatically optimise a portfolio of financial assets_
+
 - **Recommender Systems** 📱
     - _AI recommender systems using manually coded matrix factorisation and cosine similarity_
     
