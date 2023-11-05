@@ -7,7 +7,7 @@ My name is Oran Bramble, a recent Computer Science graduate from the University 
 Current Projects:
 
 - **ROTA** 📆
-    - _An automatic rota-making application which aims to address the problme of small businesses manually creating rotas for workers every week or month_
+    - _An automatic rota-making application which aims to address the problem of small businesses manually creating rotas for workers every week or month_
 
 </br>
 
