@@ -19,13 +19,13 @@ Previous Projects:
       
 - **[Distributed File System](https://github.com/oranbramble/Distributed-File-System)** 📁
     - _File storage system spread over multiple servers featuring a rebalancing algorithm_
+ 
+- [**Recommender Systems**](https://github.com/oranbramble/Recommender-Systems) 📱
+    - _AI recommender systems using manually coded matrix factorisation and cosine similarity_
 
 - **[Portfolio Optimistation](https://github.com/oranbramble/Portfolio-Optimisation)** 💼
     - _Python script to automatically optimise a portfolio of financial assets_
 
-- [**Recommender Systems**](https://github.com/oranbramble/Recommender-Systems) 📱
-    - _AI recommender systems using manually coded matrix factorisation and cosine similarity_
-    
 - **Quiplash Clone Cloud application** 🌐
     - _Unfinished application but has backend system in place using Python and Azure_
 
