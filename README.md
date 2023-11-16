@@ -8,6 +8,9 @@ Current Projects:
 
 - **ROTA** 📆
     - _An automatic rota-making application which aims to address the problem of small businesses manually creating rotas for workers every week or month_
+ 
+- **freeCodeCamp** ⌨️
+    - _Completing exercises on freeCodeCamp to improve my knowledge and breadth of languages_
 
 </br>
 
