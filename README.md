@@ -6,7 +6,7 @@ My name is Oran Bramble, a recent Computer Science graduate from the University 
 
 Current Projects:
 
-- **Data Annotator** 📆
+- **Data Annotator** 📊
     - _Working for DataAnnotator in helping train programming AI models for languags such as Python and JavaScript_
  
 - **freeCodeCamp** ⌨️
