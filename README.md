@@ -6,8 +6,8 @@ My name is Oran Bramble, a recent Computer Science graduate from the University 
 
 Current Projects:
 
-- **ROTA** 📆
-    - _An automatic rota-making application which aims to address the problem of small businesses manually creating rotas for workers every week or month_
+- **Data Annotator** 📆
+    - _Working for DataAnnotator in helping train programming AI models for languags such as Python and JavaScript_
  
 - **freeCodeCamp** ⌨️
     - _Completing exercises on freeCodeCamp to improve my knowledge and breadth of languages_
