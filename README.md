@@ -1,24 +1,24 @@
 # **About Me  👨** 
 
-My name is Oran Bramble, a recent Computer Science graduate from the University of Southampton. Having been studying Computer Science ever since I was 13, I have a vast knowledge base and have completed many projects. Most however, were pretty rookie and have been ommitted here for my own dignity. For a few of my more successful ones plus current undertakings, see the lists below:
+My name is Oran Bramble, a recent Computer Science graduate from the University of Southampton. Having been studying Computer Science ever since I was 13, I have a vast knowledge base and have completed many projects. For a few of my more successful ones plus current undertakings, see the lists below:
 
 </br>
 
 Current Projects:
 
 - **Data Annotator** 📊
-    - _Working for DataAnnotation in helping train programming AI models for languags such as Python and JavaScript_
+    - _Working for DataAnnotation in helping train programming AI models for languages such as Python and JavaScript_
  
-- **freeCodeCamp** ⌨️
-    - _Completing exercises on freeCodeCamp to improve my knowledge and breadth of languages_
+- **Jegadeesh-Titman Momentum Trading Strategy** ⌨️
+    - _Currently implementing the original momentum trading strategy described by Jegadeesh and Titman_
 
 </br>
 
 Previous Projects:
 
 - [**Third Year Independent Project**](https://github.com/oranbramble/Accumulator-Profiting) ⚽
-    - _Simulated exploitation of accumulator betting in UK football betting market using machine learning_
-    - _Unable to publish this work here so repository just contains graphs and findings_
+    - _Simulated exploitation of accumulator betting in the UK football betting market using machine learning_
+    - _Unable to publish this work here so the repository just contains graphs and findings_
       
 - **[Distributed File System](https://github.com/oranbramble/Distributed-File-System)** 📁
     - _File storage system spread over multiple servers featuring a rebalancing algorithm_
