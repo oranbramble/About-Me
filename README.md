@@ -9,7 +9,7 @@ Current Projects:
 - **Data Annotator** 📊
     - _Working for DataAnnotation in helping train programming AI models for languages such as Python and JavaScript_
  
-- **Jegadeesh-Titman Momentum Trading Strategy** ⌨️
+- [**Jegadeesh-Titman Momentum Trading Strategy**](https://github.com/oranbramble/Jegadeesh-Titman-Momentum) ⌨️
     - _Currently implementing the original momentum trading strategy described by Jegadeesh and Titman_
 
 </br>
